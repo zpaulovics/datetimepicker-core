@@ -1,15 +1,15 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'datetimepicker-core/core/version'
+require 'datetimepicker-core/lib/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "datetimepicker-core-core"
+  spec.name          = "datetimepicker-core"
   spec.version       = Datetimepicker::Core::VERSION
   spec.authors       = ["zpaulovics"]
   spec.email         = ["zpaulovics@gmail.com"]
-  spec.summary       = %q{The  tarruda/bootstrap-datetimepicker-core core.js & .css upgraded to bootstrap 3 }
-  spec.description   = %q{tarruda/bootstrap-datetimepicker-core core.js & .css upgrad}
+  spec.summary       = %q{The  tarruda/bootstrap-datetimepicker-datetimepicker-core datetimepicker-core.js & .css upgraded to bootstrap 3 }
+  spec.description   = %q{tarruda/bootstrap-datetimepicker-datetimepicker-core datetimepicker-core.js & .css upgrad}
   spec.homepage      = ""
   spec.license       = "MIT"
 

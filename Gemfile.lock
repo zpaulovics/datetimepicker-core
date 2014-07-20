@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    datetimepicker-core-core (1.0.0)
+    datetimepicker-core (1.0.0)
 
 GEM
   remote: https://rubygems.org/
@@ -13,5 +13,5 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.6)
-  datetimepicker-core-core!
+  datetimepicker-core!
   rake (~> 10.0)

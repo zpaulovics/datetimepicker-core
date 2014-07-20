@@ -1,4 +1,4 @@
-require "datetimepicker-core/core/version"
+require "datetimepicker-datetimepicker-core/datetimepicker-core/version"
 
 module Datetimepicker
   module Core
