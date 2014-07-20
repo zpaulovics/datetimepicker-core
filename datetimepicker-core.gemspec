@@ -5,7 +5,7 @@ require 'datetimepicker-core/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "datetimepicker-core"
-  spec.version       = Datetimepicker::Core::VERSION
+  spec.version       = Datetimepicker::VERSION
   spec.authors       = ["zpaulovics"]
   spec.email         = ["zpaulovics@gmail.com"]
   spec.summary       = %q{The  tarruda/bootstrap-datetimepicker-datetimepicker-core datetimepicker-core.js & .css upgraded to bootstrap 3 }
